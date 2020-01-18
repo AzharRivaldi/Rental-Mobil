@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Rental Mobil</string>
+    <string name="nama_penyewa">Nama Penyewa <font color='red'>(*)</font></string>
+    <string name="alamat">Alamat <font color='red'>(*)</font></string>
+    <string name="no_telp_hp">No. Telp/HP <font color='red'>(*)</font></string>
+    <string name="merk_mobil">Merk Mobil <font color='red'>(*)</font></string>
+    <string name="lama_sewa">Lama Sewa <font color='red'>(*)</font></string>
+</resources>
